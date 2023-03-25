@@ -17246,7 +17246,7 @@ Moves phase.</characteristic>
         <characteristic name="Type" typeId="21e9-4aa2-f538-c93b">Augment</characteristic>
         <characteristic name="Casting Value" typeId="d6bf-647e-ba69-e8a0">5+/10+</characteristic>
         <characteristic name="Range" typeId="2954-76ea-decb-30ff">12&quot;/24&quot;</characteristic>
-        <characteristic name="Details" typeId="f5f2-ac1b-25cd-89c6">Affects units of Squigs (of any type) within range. The target units add an additional D6&quot; to any move they make in the Movement phase (except Fleeing) and when pursuing; as well as gain Frenzy until the start of the caster&apos;s next Magic phase.</characteristic>
+        <characteristic name="Details" typeId="f5f2-ac1b-25cd-89c6">Affects units of Squigs. The target unit immediately makes a Random Move (2D6); and all Squigs (but not their riders or handlers) in the unit gain Frenzy until the start of the caster&apos;s next Magic phase.</characteristic>
       </characteristics>
     </profile>
     <profile id="5db6-6208-ee8e-6ede" name="Night Shroud" publicationId="9e23-79cb-pubN78975" page="202" hidden="false" typeId="cb92-d882-5ba8-11ab" typeName="Spell">
